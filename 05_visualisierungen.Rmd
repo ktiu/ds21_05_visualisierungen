@@ -1,0 +1,12 @@
+---
+title: "Visualisierungen"
+date: "30. November 2020
+---
+
+# Voraussetzungen
+
+# Überblick über den Datensatz
+
+# Visualisierung mit dem Standardpaket (base R)
+
+# Visualisierung mit `ggplot()`
